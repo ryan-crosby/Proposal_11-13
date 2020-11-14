@@ -2,7 +2,7 @@
 This is the home of the proposal for the final project.
 ## What will (likely) be the title of your project?
 
-TODO
+Pop Culture Pong
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
